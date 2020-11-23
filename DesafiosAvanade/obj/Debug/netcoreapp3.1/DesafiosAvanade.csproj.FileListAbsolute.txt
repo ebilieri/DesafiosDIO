@@ -1,0 +1,13 @@
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\bin\Debug\netcoreapp3.1\DesafiosAvanade.exe
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\bin\Debug\netcoreapp3.1\DesafiosAvanade.deps.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\bin\Debug\netcoreapp3.1\DesafiosAvanade.runtimeconfig.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\bin\Debug\netcoreapp3.1\DesafiosAvanade.runtimeconfig.dev.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\bin\Debug\netcoreapp3.1\DesafiosAvanade.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\bin\Debug\netcoreapp3.1\DesafiosAvanade.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.csprojAssemblyReference.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.AssemblyInfoInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.AssemblyInfo.cs
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.csproj.CoreCompileInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp5\DesafiosAvanade\obj\Debug\netcoreapp3.1\DesafiosAvanade.genruntimeconfig.cache
