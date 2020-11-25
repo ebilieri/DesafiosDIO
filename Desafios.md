@@ -1,6 +1,3 @@
-# DesafiosDIO
-Desafios Algoritmos
-
 ## Desafio
 
 No jogo, O Mundo de Oz, Pedro Bento é o líder do Tribunal, por causa disso ele é uma das pessoas mais importantes do mundo, no jogo. Além disso, Pedro Bento possui um grande tesouro, o qual possui diversos tipos de jóias.
